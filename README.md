@@ -1,1 +1,1 @@
-# Cryptography
+# <p align="center">Cryptography</p>
